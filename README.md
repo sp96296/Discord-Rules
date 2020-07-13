@@ -54,7 +54,7 @@
 | Use #memes-comedy for memes                                                                                                                          | Verbal Warning                                        |
 | Use #video-share for videos                                                                                                                          | Verbal Warning                                        |
 | Memes and videos can  be sent to #stream-voice-general if they are relevant to a voice chat or stream on this server                                 | N/A                                                   |
-| I reserve the right to delete posts.                                                                                                                 | N/A                                                   |
+| I reserve the right to delete posts, or to have mods delete on my behalf.                                                                            | N/A                                                   |
 | No advertisement without permission.                                                                                                                 | Verbal Warning, Message Deletion                      |
 | Attempt to send messages in relevant channels. If confused where to send, contact mods via the bots or DM me.                                        | Verbal Warning                                        |
 
