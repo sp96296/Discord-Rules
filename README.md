@@ -3,9 +3,9 @@
 
 | **Terms**           | **Definitions**                                                                |
 |---------------------|--------------------------------------------------------------------------------|
+| Verbal Warning      | You will be corrected by myself or a mod, usually wont count as Server Warning |
 | Server Warning      | A warn will be added to your account. The more warns, the worse punishment.    |
 | Variable Punishment | Punishment depends on the severity of your action                              |
-| Verbal Warning      | You will be corrected by myself or a mod, usually wont count as Server Warning |
 
 
 | **Warn Levels** | **Punishment**                                                    |
