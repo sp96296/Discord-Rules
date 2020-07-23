@@ -29,7 +29,7 @@
 | **General server rules**                                                                       | **Punishment**                          |
 |------------------------------------------------------------------------------------------------|-----------------------------------------|
 | Moderators reserve the right to change nicknames.                                              | N/A                                     |
-| Moderators reserve the right to use their own discretion regardless of any rule.               | N/A                                     |
+| Moderators reserve the right to use their own discretion regardless of any rule, but may be disciplined by me.               | N/A                                     |
 | Rules apply to DMing other members of the server when reasonable.                              | N/A                                     |
 | No blank nicknames.                                                                            | Verbal Warning                          |
 | Don't dump your emotions or stressors on others without their consent. Post in #serious if you just want to put it out there. | Verbal Warning |
