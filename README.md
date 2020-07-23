@@ -47,7 +47,7 @@
 
 | **Text chat rules**                                                                                                                                  |                                                        |
 |------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|
-| Contact the moderators by DMing Hermes or Mercury for support. If none are online, DM me instead.                                                    | N/A                                                    |
+| Contact the moderators by DMing Hermes or Mercury for support or to report inappropriate actions by users. If none are online, DM me instead.        | N/A                                                    |
 | Use #bot-commands for interacting with bots.                                                                                                         | N/A                                                    |
 | Memes and videos can  be sent to #stream-voice-general if they are relevant to a voice chat or stream on this server.                                | N/A                                                    |
 | I reserve the right to delete posts, or to have mods delete on my behalf.                                                                            | N/A                                                    |
