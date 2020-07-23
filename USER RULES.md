@@ -30,12 +30,13 @@
 |------------------------------------------------------------------------------------------------|-----------------------------------------|
 | Moderators reserve the right to change nicknames.                                              | N/A                         |
 | Moderators reserve the right to use their own discretion regardless of any rule, but may be disciplined by me.  | N/A                                     |
+| Fairness of moderation or rule usage is decided by me, not you or the mods.                    | N/A                         |
 | Rules apply to DMing other members of the server when reasonable.                              | N/A                         |
 | No blank nicknames.                                                                            | VW                          |
 | Don't dump your emotions or stressors on others without their consent. Post in #serious if you just want to put it out there. | VW |
 | Nicknames must contain your first name within parenthesis.                                     | Rename                      |
 | No exploiting loopholes in the rules (please report them).                                     | SW                          |
-| No bugs, exploits, glitches, hacks, etc.                                                 | SW                          |
+| No bugs, exploits, glitches, hacks, etc.                                                       | SW                          |
 | No offensive (sexist, racist, purposefully inflammatory, etc) nicknames.                       | SW                          |
 | No offensive (nsfw, sexist, racist, purposefully inflammatory, etc) profile pictures.          | SW, no voice or text access |
 | No inviting bots.                                                                              | SW, removal of bot          |
