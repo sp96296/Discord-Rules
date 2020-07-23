@@ -34,7 +34,7 @@
 | Rules apply to DMing other members of the server when reasonable.                              | N/A                         |
 | No blank nicknames.                                                                            | VW                          |
 | Don't dump your emotions or stressors on others without their consent. Post in #serious if you just want to put it out there. | VW |
-| Nicknames must contain your first name within parenthesis.                                     | Rename                      |
+| Nicknames must contain your preferred name and last initial within parenthesis.                | Rename                      |
 | No exploiting loopholes in the rules (please report them).                                     | SW                          |
 | No bugs, exploits, glitches, hacks, etc.                                                       | SW                          |
 | No offensive (sexist, racist, purposefully inflammatory, etc) nicknames.                       | SW                          |
