@@ -6,7 +6,9 @@
 | Verbal Warning (VW)       | You will be corrected by myself or a mod, usually wont count as Server Warning **3 VW = SW** |
 | Server Warning (SW)       | A warn will be added to your account. The more warns, the worse punishment.                  |
 | Variable Punishment (VP)  | Punishment depends on the severity of your action                                            |
-
+| Not Safe For Work (NSFW)  | content, videos or websites pages the viewer may not wish to be seen looking at in a public, formal or controlled environment (nudity, intense sexuality, violence or other related subjects) |
+| Simping                   | (1) Someone, usually a man, who will say anything to please someone, particularly a girl, in the hopes that they will be in good favor with that person. <br> (2) Someone who does way too much for a person they like. |
+| White Knight              | (1) A person with low self esteem who combats this with a unwavering need to aid others who may or may not need it. <br> (2) A person who sticks up for someone else only because they are their preffered gender or other identity, usually with romantic or sexual intent |
 
 
 | **Warn Levels** | **Punishment**                                                    |
@@ -30,6 +32,7 @@
 | Moderators reserve the right to use their own discretion regardless of any rule.               | N/A                                     |
 | Rules apply to DMing other members of the server when reasonable.                              | N/A                                     |
 | No blank nicknames.                                                                            | Verbal Warning                          |
+| Don't dump your emotions or stressors on others without their consent. Post in #serious if you just want to put it out there. | Verbal Warning |
 | Nicknames must contain your first name within parenthesis.                                     | Rename                                  |
 | No exploiting loopholes in the rules (please report them).                                     | Server Warning                          |
 | No bugs, exploits, glitches, hacks, bugs, etc.                                                 | Server Warning                          |
@@ -38,6 +41,7 @@
 | No inviting bots.                                                                              | Server Warning, removal of bot          |
 | DMs between members may be used as evidence for a warn or other punishments (mute, kick, ban). | Variable Punishment                     |
 | Respect others’ boundaries. No peer-pressure or inappropriate comments.                        | Variable Punishment                     |
+| No simping or whiteknighting                                                                   | Variable Punishment                     |
 
 
 
