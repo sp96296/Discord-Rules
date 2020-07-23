@@ -8,6 +8,7 @@
 | Variable Punishment (VP)  | Punishment depends on the severity of your action                                            |
 
 
+
 | **Warn Levels** | **Punishment**                                                    |
 |-----------------|-------------------------------------------------------------------|
 | 1               | 5 minute voice and text chat mute                                 |
@@ -16,7 +17,9 @@
 | 4               | Access restricted to the afk/timeout voice channel for 15 minutes |
 | 5               | Temporary kick from the server                                    |
 | 6               | Ban                                                               |
+
 **Warns wear off after 1 month, though may be reinstated if there is a repeating issue.**
+
 **Repeating issues may cause an increased punishment.**
 
 
@@ -35,6 +38,7 @@
 | No inviting bots.                                                                              | Server Warning, removal of bot          |
 | DMs between members may be used as evidence for a warn or other punishments (mute, kick, ban). | Variable Punishment                     |
 | Respect others’ boundaries. No peer-pressure or inappropriate comments.                        | Variable Punishment                     |
+
 
 
 | **Text chat rules**                                                                                                                                  |                                                        |
@@ -59,6 +63,7 @@
 | No harassment, sexism, racism, or purposefully inflammatory actions.                                                                                 | Server Warning, Message Deletion                       |
 | No written sexual roleplay. This does not apply to jokes in most cases.                                                                              | Server Warning, Message Deletion                       |
 | No content illegal in the US shall be shared in text or voice channels unless otherwise permitted by mods.                                           | Server Warning, Message Deletion, Variable Punishment  |
+
 
 
 | **Voice chat rules**                                                                                  |                               |
