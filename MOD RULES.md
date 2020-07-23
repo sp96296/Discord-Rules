@@ -27,7 +27,7 @@ Failure to follow duties may put a VW or SW on your record, please take this ser
 | Combat toxicity and/or bigotry when you see it       | N/A           |
 | Do not use power to enforce your opinion<br> if you doubt your judgement, ask me | VW |
 | Do not force disconnect people from voice<br> or move their channels just for fun | VW |
-| Log verbal warnings in logs so others can keep track | VW            |
+| Log your actions in logs so others can keep track    | VW            |
 | Include your justifications in warns and other logs  | VW            |
 | Follow server rules                                  | SW            |
 
