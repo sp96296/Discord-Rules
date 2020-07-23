@@ -28,52 +28,52 @@
 
 | **General server rules**                                                                       | **Punishment**                          |
 |------------------------------------------------------------------------------------------------|-----------------------------------------|
-| Moderators reserve the right to change nicknames.                                              | N/A                                     |
-| Moderators reserve the right to use their own discretion regardless of any rule, but may be disciplined by me.               | N/A                                     |
-| Rules apply to DMing other members of the server when reasonable.                              | N/A                                     |
-| No blank nicknames.                                                                            | Verbal Warning                          |
-| Don't dump your emotions or stressors on others without their consent. Post in #serious if you just want to put it out there. | Verbal Warning |
-| Nicknames must contain your first name within parenthesis.                                     | Rename                                  |
-| No exploiting loopholes in the rules (please report them).                                     | Server Warning                          |
-| No bugs, exploits, glitches, hacks, bugs, etc.                                                 | Server Warning                          |
-| No offensive (sexist, racist, purposefully inflammatory, etc) nicknames.                       | Server Warning, Rename                  |
-| No offensive (nsfw, sexist, racist, purposefully inflammatory, etc) profile pictures.          | Server Warning, no voice or text access |
-| No inviting bots.                                                                              | Server Warning, removal of bot          |
-| DMs between members may be used as evidence for a warn or other punishments (mute, kick, ban). | Variable Punishment                     |
-| Respect others’ boundaries. No peer-pressure or inappropriate comments.                        | Variable Punishment                     |
-| No simping or whiteknighting                                                                   | Variable Punishment                     |
+| Moderators reserve the right to change nicknames.                                              | N/A                         |
+| Moderators reserve the right to use their own discretion regardless of any rule, but may be disciplined by me.  | N/A                                     |
+| Rules apply to DMing other members of the server when reasonable.                              | N/A                         |
+| No blank nicknames.                                                                            | Verbal Warning              |
+| Don't dump your emotions or stressors on others without their consent. Post in #serious if you just want to put it out there. | VW |
+| Nicknames must contain your first name within parenthesis.                                     | Rename                      |
+| No exploiting loopholes in the rules (please report them).                                     | SW                          |
+| No bugs, exploits, glitches, hacks, bugs, etc.                                                 | SW                          |
+| No offensive (sexist, racist, purposefully inflammatory, etc) nicknames.                       | SW                          |
+| No offensive (nsfw, sexist, racist, purposefully inflammatory, etc) profile pictures.          | SW, no voice or text access |
+| No inviting bots.                                                                              | SW, removal of bot          |
+| DMs between members may be used as evidence for a warn or other punishments (mute, kick, ban). | VP                          |
+| Respect others’ boundaries. No peer-pressure or inappropriate comments.                        | VP                          |
+| No simping or whiteknighting                                                                   | VP                          |
 
 
 
 | **Text chat rules**                                                                                                                                  |                                                        |
-|------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|
-| Contact the moderators by DMing Hermes or Mercury for support or to report inappropriate actions by users. If none are online, DM me instead.        | N/A                                                    |
-| Use #bot-commands for interacting with bots.                                                                                                         | N/A                                                    |
-| Memes and videos can  be sent to #stream-voice-general if they are relevant to a voice chat or stream on this server.                                | N/A                                                    |
-| I reserve the right to delete posts, or to have mods delete on my behalf.                                                                            | N/A                                                    |
-| Don't ask to be a mod, you can apply whenever applications are announced, or if you are contacted by me directly.                                    | Verbal warning                                        |
-| No trolling.                                                                                                                                         | Verbal Warning                                        |
-| Try to avoid spamming. The #bot-commands and #memes-comedy channels are mostly exempt.                                                               | Verbal Warning                                        |
-| Use #memes-comedy for memes, unless relevant elsewhere.                                                                                              | Verbal Warning                                        |
-| Use #video-share for videos, unless relevant elsewhere.                                                                                              | Verbal Warning                                        |
-| Attempt to send messages in relevant channels. If confused where to send, contact mods via the bots or DM me.                                        | Verbal Warning                                        |
-| Refrain from copypastas or other long spam messages, unless they fit in the channel (#memes-comedy, #stream-voice-general, or a relevant games chat) | Verbal Warning, Message Deletion                       |
-| No advertisement without permission.                                                                                                                 | Verbal Warning, Message Deletion                       |
-| No @mentioning spam.                                                                                                                                 | Server Warning                                        |
-| No malicious personal attacks.                                                                                                                       | Server Warning                                        |
-| No organization or practice of  targeted harassment of individuals, whether in this server or not.                                                   | Server Warning                                        |
-| NSFW photos, gifs, videos, or links are not allowed, NSFW-suggesting content is fine as long as spoiler tags hide it. Try to avoid NSFW thumbnails.  | Server Warning, Message Deletion                       |
-| No doxxing. You may share info if you have permission.                                                                                               | Server Warning, Message Deletion                       |
-| No harassment, sexism, racism, or purposefully inflammatory actions.                                                                                 | Server Warning, Message Deletion                       |
-| No written sexual roleplay. This does not apply to jokes in most cases.                                                                              | Server Warning, Message Deletion                       |
-| No content illegal in the US shall be shared in text or voice channels unless otherwise permitted by mods.                                           | Server Warning, Message Deletion, Variable Punishment  |
+|------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------|
+| Contact the moderators by DMing Hermes or Mercury for support or to report inappropriate actions by users. If none are online, DM me instead.        | N/A                         |
+| Use #bot-commands for interacting with bots.                                                                                                         | N/A                         |
+| Memes and videos can  be sent to #stream-voice-general if they are relevant to a voice chat or stream on this server.                                | N/A                         |
+| I reserve the right to delete posts, or to have mods delete on my behalf.                                                                            | N/A                         |
+| Don't ask to be a mod, you can apply whenever applications are announced, or if you are contacted by me directly.                                    | VW                         |
+| No trolling.                                                                                                                                         | VW                         |
+| Try to avoid spamming. The #bot-commands and #memes-comedy channels are mostly exempt.                                                               | VW                         |
+| Use #memes-comedy for memes, unless relevant elsewhere.                                                                                              | VW                         |
+| Use #video-share for videos, unless relevant elsewhere.                                                                                              | VW                         |
+| Attempt to send messages in relevant channels. If confused where to send, contact mods via the bots or DM me.                                        | VW                         |
+| Refrain from copypastas or other long spam messages, unless they fit in the channel (#memes-comedy, #stream-voice-general, or a relevant games chat) | VW, Message Deletion       |
+| No advertisement without permission.                                                                                                                 | VW, Message Deletion       |
+| No @mentioning spam.                                                                                                                                 | SW                         |
+| No malicious personal attacks.                                                                                                                       | SW                         |
+| No organization or practice of  targeted harassment of individuals, whether in this server or not.                                                   | SW                         |
+| NSFW photos, gifs, videos, or links are not allowed, NSFW-suggesting content is fine as long as spoiler tags hide it. Try to avoid NSFW thumbnails.  | SW, Message Deletion       |
+| No doxxing. You may share info if you have permission.                                                                                               | SW, Message Deletion       |
+| No harassment, sexism, racism, or purposefully inflammatory actions.                                                                                 | SWg, Message Deletion       |
+| No written sexual roleplay. This does not apply to jokes in most cases.                                                                              | SW, Message Deletion       |
+| No content illegal in the US shall be shared in text or voice channels unless otherwise permitted by mods.                                           | SW, Message Deletion, VP  |
 
 
 
-| **Voice + Video chat rules**                                                                          |                               |
-|-------------------------------------------------------------------------------------------------------|-------------------------------|
-| Moderators reserve the right to disconnect you from a voice channel if your sound quality is poor.    | N/A                           |
-| Moderators reserve the right to disconnect, mute, deafen, or move members to and from voice channels. | N/A                           |
-| No annoying, loud or high pitch noises.                                                               | Verbal Warning, Possible Mute |
-| Reduce the amount of background noise, if possible.                                                   | Verbal Warning, Possible Mute |
-| No NSFW audio or video                                                                                | Server Warning, Possible Mute |
+| **Voice + Video chat rules**                                                                          |                                 |
+|-------------------------------------------------------------------------------------------------------|---------------------------------|
+| Moderators reserve the right to disconnect you from a voice channel if your sound quality is poor.    | N/A                             |
+| Moderators reserve the right to disconnect, mute, deafen, or move members to and from voice channels. | N/A                             |
+| No annoying, loud or high pitch noises.                                                               | VW, Possible Mute               |
+| Reduce the amount of background noise, if possible.                                                   | VW, Possible Mute               |
+| No NSFW audio or video                                                                                | SW, Voice, Video, and text Mute |
