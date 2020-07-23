@@ -9,3 +9,14 @@
 | White Knight              | (1) A person with low self esteem who combats this with a unwavering need to aid others who may or may not need it. <br> (2) A person who sticks up for someone else only because they are their preffered gender or other identity, usually with romantic or sexual intent <br> (3) Someone who shames other people of the same identity as themselves to prop up people of preferred romantic/sexual/etc identity.  |
 
 
+| **Warn Levels** | **Punishment**               |
+|-----------------|------------------------------|
+| 1               | VW                           |
+| 2               | VW                           |
+| 3               | Removal of power for 15 min  |
+| 4               | Removal from mod team        |
+
+
+|  | **Punishment**|
+|-----------------|---------|
+|                 |      |
