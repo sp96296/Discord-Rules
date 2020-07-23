@@ -70,9 +70,10 @@
 
 
 
-| **Voice chat rules**                                                                                  |                               |
+| **Voice + Video chat rules**                                                                          |                               |
 |-------------------------------------------------------------------------------------------------------|-------------------------------|
 | Moderators reserve the right to disconnect you from a voice channel if your sound quality is poor.    | N/A                           |
 | Moderators reserve the right to disconnect, mute, deafen, or move members to and from voice channels. | N/A                           |
 | No annoying, loud or high pitch noises.                                                               | Verbal Warning, Possible Mute |
 | Reduce the amount of background noise, if possible.                                                   | Verbal Warning, Possible Mute |
+| No NSFW audio or video                                                                                | Server Warning, Possible Mute |
