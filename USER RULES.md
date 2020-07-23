@@ -35,7 +35,7 @@
 | Don't dump your emotions or stressors on others without their consent. Post in #serious if you just want to put it out there. | VW |
 | Nicknames must contain your first name within parenthesis.                                     | Rename                      |
 | No exploiting loopholes in the rules (please report them).                                     | SW                          |
-| No bugs, exploits, glitches, hacks, bugs, etc.                                                 | SW                          |
+| No bugs, exploits, glitches, hacks, etc.                                                 | SW                          |
 | No offensive (sexist, racist, purposefully inflammatory, etc) nicknames.                       | SW                          |
 | No offensive (nsfw, sexist, racist, purposefully inflammatory, etc) profile pictures.          | SW, no voice or text access |
 | No inviting bots.                                                                              | SW, removal of bot          |
