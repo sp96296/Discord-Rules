@@ -11,14 +11,14 @@
 | White Knight              | (1) A person with low self esteem who combats this with a unwavering need to aid others who may or may not need it. <br> (2) A person who sticks up for someone else only because they are their preffered gender or other identity, usually with romantic or sexual intent <br> (3) Someone who shames other people of the same identity as themselves to prop up people of preferred romantic/sexual/etc identity.  |
 
 
-| **Warn Levels** | **Punishment**                                                    |
-|-----------------|-------------------------------------------------------------------|
-| 1               | 5 minute voice and text chat mute                                 |
-| 2               | 10 minute voice and text chat mute                                |
-| 3               | Access restricted to the afk/timeout voice channel for 5 minutes  |
-| 4               | Access restricted to the afk/timeout voice channel for 15 minutes |
-| 5               | Temporary kick from the server                                    |
-| 6               | Ban                                                               |
+| **Server Warn Levels** | **Punishment**                                                    |
+|------------------------|-------------------------------------------------------------------|
+| 1                      | 5 minute voice and text chat mute                                 |
+| 2                      | 10 minute voice and text chat mute                                |
+| 3                      | Access restricted to the afk/timeout voice channel for 5 minutes  |
+| 4                      | Access restricted to the afk/timeout voice channel for 15 minutes |
+| 5                      | Temporary kick from the server                                    |
+| 6                      | Ban                                                               |
 
 **Warns wear off after 1 month, though may be reinstated if there is a repeating issue.**
 
@@ -26,8 +26,8 @@
 
 
 
-| **General server rules**                                                                       | **Punishment**                          |
-|------------------------------------------------------------------------------------------------|-----------------------------------------|
+| **General server rules**                                                                       | **Punishment**              |
+|------------------------------------------------------------------------------------------------|-----------------------------|
 | Moderators reserve the right to change nicknames.                                              | N/A                         |
 | Moderators reserve the right to use their own discretion regardless of any rule, but may be disciplined by me.  | N/A                                     |
 | Fairness of moderation or rule usage is decided by me, not you or the mods.                    | N/A                         |
