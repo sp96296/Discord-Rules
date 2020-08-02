@@ -65,7 +65,7 @@
 | No organization or practice of  targeted harassment of individuals, whether in this server or not.                                                   | SW                              |
 | NSFW photos, gifs, videos, or links are not allowed, NSFW-suggesting content is fine as long as spoiler tags hide it. Try to avoid NSFW thumbnails.  | SW, Message Deletion            |
 | No doxxing. You may share info if you have permission.                                                                                               | SW, Message Deletion            |
-| No harassment, sexism, racism, or purposefully inflammatory actions.                                                                                 | SWg, Message Deletion            |
+| No harassment, sexism, racism, or purposefully inflammatory actions.                                                                                 | SW, Message Deletion            |
 | No written sexual roleplay. This does not apply to jokes in most cases.                                                                              | SW, Message Deletion            |
 | No content illegal in the US shall be shared in text or voice channels unless otherwise permitted by mods.                                           | SW, VP, Message Deletion |
 
